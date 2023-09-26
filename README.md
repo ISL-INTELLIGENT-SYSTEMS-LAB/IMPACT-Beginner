@@ -1,5 +1,31 @@
 # IMPACT-Beginner
 
+**Classifier tutorials/examples/etc:**
+
+Please use the examples and tutorials under this to create the classifier(s):
+
+https://medium.com/bitgrit-data-science-publication/building-an-image-classification-model-with-pytorch-from-scratch-f10452073212
+
+https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
+
+https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+
+https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
+
+
+These resources are helpful if you want more of an under-the-hood view (we're not using them to make the classifier; they're just for more insight if you want it). They go through making NNs only using Numpy:
+
+https://www.geeksforgeeks.org/implementation-of-neural-network-from-scratch-using-numpy/
+
+https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
+
+https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795
+
+https://www.youtube.com/watch?v=w8yWXqWQYmU
+
+
+**Dataset Links/Resources:**
+
 Each of the datasets linked below are in case we need the original dataset. Please use the datasets that are in this repository.
 
 Mars Dataset org link:  https://zenodo.org/record/4033453
