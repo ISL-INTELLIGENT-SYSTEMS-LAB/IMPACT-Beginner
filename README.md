@@ -2,7 +2,7 @@
 
 **Classifier tutorials/examples/etc:**
 
-Please use the examples and tutorials under this to create the classifier(s):
+Please use the examples and tutorials under this to create the classifier(s). These include both Pytorch and Keras (you can use whichever you feel comfortable with):
 
 https://medium.com/bitgrit-data-science-publication/building-an-image-classification-model-with-pytorch-from-scratch-f10452073212
 
@@ -11,6 +11,9 @@ https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
 https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 
 https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
+
+https://www.tensorflow.org/tutorials/images/classification
+
 
 
 These resources are helpful if you want more of an under-the-hood view (we're not using them to make the classifier; they're just for more insight if you want it). They go through making NNs only using Numpy:
@@ -22,6 +25,7 @@ https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-d
 https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795
 
 https://www.youtube.com/watch?v=w8yWXqWQYmU
+
 
 
 **Dataset Links/Resources:**
