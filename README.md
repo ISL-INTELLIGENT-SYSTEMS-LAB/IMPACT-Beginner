@@ -2,7 +2,7 @@
 
 **Classifier tutorials/examples/etc:**
 
-Please use the examples and tutorials under this to create the classifier(s). These include both Pytorch and Keras (you can use whichever you feel comfortable with):
+Please use the examples and tutorials under this to create the classifier(s). These include both Pytorch and Tensorflow (you can use whichever you feel comfortable with):
 
 https://medium.com/bitgrit-data-science-publication/building-an-image-classification-model-with-pytorch-from-scratch-f10452073212
 
