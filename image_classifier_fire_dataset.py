@@ -1,6 +1,8 @@
 import os
 
 """
+Drop this program in the top level directory of the dataset (the same level with the 'the_wildfire_dataset.csv')
+
 LABELS FOR THE IMAGES:
 1 - Both_smoke_and_fire
 2 - Smoke_from_fires
