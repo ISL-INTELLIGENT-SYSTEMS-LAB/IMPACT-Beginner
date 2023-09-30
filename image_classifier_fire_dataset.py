@@ -36,15 +36,15 @@ def main():
             match usr_choice:
                 # Test dataset
                 case "1":
-                    fileWriter("test", "test_classifier.csv")
+                    fileWriter("test", "test_classified.csv")
                 
                 # Train dataset
                 case "2":
-                    fileWriter("train", "train_classifier.csv")
+                    fileWriter("train", "train_classified.csv")
                 
                 # Val dataset
                 case "3":
-                    fileWriter("val", "val_classifier.csv")
+                    fileWriter("val", "val_classified.csv")
                 
                 # Terminates the program
                 case "4":
