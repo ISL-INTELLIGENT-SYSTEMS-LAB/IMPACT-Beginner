@@ -1,9 +1,13 @@
 import os
 import shutil
 
-# This script is used to sort the images into their respective folders so that they can be used for training the model
+""" 
+    This script is used to sort the images into their respective folders so that they can be used for training the model.
+    
+    Simply place this file in the same directory as the images folder and run it.
+"""
 
-# The following lists are used to store the images
+# The following lists are used to store the image names associated with each label
 armCover = []
 otherRoverPart = []
 artifact = []
